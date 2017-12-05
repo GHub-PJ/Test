@@ -1,1 +1,2 @@
-This is text in the text.txt file
+Another line
+2nd line
